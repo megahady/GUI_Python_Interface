@@ -1,3 +1,4 @@
 # GUI_Python_Interface
-General GUI using pyqtgraph to plot 12 signal and availability to save to csv file.
-![image](https://github.com/megahady/GUI_Python_Interface/assets/9787725/3a13956c-77b0-4a90-a77b-4be4ebfafbda)
+A GUI using pyqtgraph was developed to plot 12 randomly generated signals and save them to csv file.
+The code is a template for real-time signal acquisition.
+![image](https://github.com/megahady/GUI_Python_Interface/assets/9787725/fcbbaca9-4dfa-45ff-bd79-9cee7d7343ec)
